@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "079B9782-9F6D-4650-BD6F-5207570FF650",
+  "do_objectID": "03B405EF-86F5-4FE9-A248-22FEE70E2845",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,14 +24,14 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 196,
+    "x": 774,
     "y": 8
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -49,9 +49,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "91B89C93-BF73-422A-9B46-C246B29BED18"
+    }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "Scree_02",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
@@ -98,7 +102,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4545CB60-DF78-487B-9861-428AE1051FCD",
+    "do_objectID": "1D9D1ECF-CB81-47E6-A5B3-2200E54D9B51",
     "endMarkerType": 0,
     "fills": [
     ],
