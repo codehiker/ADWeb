@@ -49,9 +49,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "text",
+      "id": "E3D1D22F-8FC7-4597-A79B-D2599DB7DB24"
+    }
   ],
-  "name": "iPhone 8",
-  "nameIsFixed": false,
+  "name": "Scree_01",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
     "height": 667,
